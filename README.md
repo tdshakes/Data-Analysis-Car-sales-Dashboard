@@ -22,3 +22,9 @@ Monthly and Yearly Sales Trends – Identifies seasonality and long-term growth 
 
 ## Dashboard
 <img width="729" height="405" alt="Carsales Dashboard" src="https://github.com/user-attachments/assets/dc3c1c3a-8432-4745-8ba2-b1d73da0c51d" />
+
+## Conclusion
+
+The Car Sales Performance Analytics Dashboard successfully transforms raw transactional data into actionable business intelligence insights using Power BI. By integrating executive-level KPIs with detailed analytical breakdowns, the dashboard enables comprehensive monitoring of sales performance, revenue trends, customer segmentation, and regional distribution.
+
+The solution supports data-driven decision-making by providing clear visibility into business growth, operational performance, and market dynamics. It demonstrates strong competency in data modeling, DAX calculations, KPI design, and interactive dashboard development aligned with business objectives.
